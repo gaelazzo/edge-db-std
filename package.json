@@ -1,0 +1,16 @@
+{
+  "name": "edge-db-std",
+  "version": "1.0.0",
+  "description": "edge-db for .net standard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://github.com/gaelazzo/edge-db-std",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gaelazzo/edge-db-std"
+  },
+  "author": "",
+  "license": "ISC"
+}
